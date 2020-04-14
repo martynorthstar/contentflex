@@ -20,7 +20,9 @@ Martin Nygren is a transitioning tech writer. Versatility comes from width of ex
 * technicalwriter/API-doc-specialist
 
 == Previous experience: 
+
 === 10 years+ journalism
+
 * Microcopy
 * Headlines
 * Editing 
