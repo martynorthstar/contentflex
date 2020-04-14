@@ -2,8 +2,18 @@ Dates: 6/4–9/4
 
 
 = Activities
-
+Internal meetings
+Set up VPN
+Backend-setup: SSH-configuration
 
 = Learnings
+Git/website workflow:
+
+* Deploy to staging
+* Deploy to production 
 
 = Production 
+Rewrote and restructured two content-articles: 
+
+* Run a model
+* Optimizers and compiler options

@@ -3,7 +3,8 @@ Dates: 30/3–3/4
 
 = Activities
 University online course – Elements of AI 
-
+Internal meetings 
+Engage with AsciDoc and Github
 
 = Learnings
 * Express probabilities in terms of natural frequencies
@@ -16,4 +17,5 @@ University online course – Elements of AI
 * Understand the technical methods that underpin neural networks
 * Understand the difficulty in predicting the future and be able to better evaluate the claims made about AI
 * Identify some of the major societal implications of AI including algorithmic bias, AI-generated content, privacy, and work
+
 = Production 

@@ -1,9 +1,9 @@
 Dates: 2–7 mars
 
-Activities
+= Activities
 Use platform imitating standard user flow. Read in-depth material, both internal documents and external sources Meetings, both introductory and team-meetings Evening meet-up with lectures Internal 4-hour-hackaton
 
-Learnings
+= Learnings
 Platform UI
 
 Website structure
@@ -16,5 +16,5 @@ Tech writing work-landscape
 
 Product company-logic – Structure versus individual
 
-Production
+= Production
 Article with personal angle. Purpose: Market / educate / engagement
