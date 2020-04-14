@@ -1,6 +1,6 @@
 # contentflex
 
-Various proof-of-work of versatile writer Martin Nygren;technical, creative and journalistic communication. 
+Various proof-of-work of versatile writer Martin Nygren; technical, creative and journalistic communication. 
 
 == Versatility from Width of Work
 Martin Nygren is a transitioning tech writer. Versatility comes from width of experience: 
