@@ -1,19 +1,17 @@
 Dates: 2–7 mars
 
 = Activities
-Use platform imitating standard user flow. Read in-depth material, both internal documents and external sources Meetings, both introductory and team-meetings Evening meet-up with lectures Internal 4-hour-hackaton
+Use platform imitating standard user flow. 
+Read in-depth material, both internal documents and external sources 
+Meetings, both introductory and team-meetings 
+Evening meet-up with lectures Internal 4-hour-hackaton
 
 = Learnings
 Platform UI
-
 Website structure
-
 Structure philosophy
-
 Deep machine learning taxonomy and workflow
-
 Tech writing work-landscape
-
 Product company-logic – Structure versus individual
 
 = Production

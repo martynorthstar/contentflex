@@ -3,7 +3,10 @@
 Various proof-of-work of versatile writer Martin Nygren; technical, creative and journalistic communication. 
 
 == Versatility from Width of Work
-Martin Nygren is a transitioning tech writer. Versatility comes from width of experience: 
+
+Martin Nygren is a transitioning tech writer. 
+
+Professional potential comes from width of work-experience: 
 
 === Tool-box 
 * technicalwriter/Scripts-for-videos
