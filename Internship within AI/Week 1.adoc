@@ -1,20 +1,20 @@
 Dates: 2–7 mars
 
-= Activities
-Use platform imitating standard user flow. 
-Read in-depth material, both internal documents and external sources
-Meetings, both introductory and team-meetings
-Evening meet-up with lectures
-Internal 4-hour-hackaton
+Activities
+Use platform imitating standard user flow. Read in-depth material, both internal documents and external sources Meetings, both introductory and team-meetings Evening meet-up with lectures Internal 4-hour-hackaton
 
-= Learnings
-* Platform UI 
-* Website structure 
-* Structure philosophy
-* Deep machine learning taxonomy and workflow
-* Tech writing work-landscape 
-* Product company-logic – Structure versus individual
+Learnings
+Platform UI
 
-= Production 
-* Article with personal angle. 
-Purpose: Market / educate / engagement
+Website structure
+
+Structure philosophy
+
+Deep machine learning taxonomy and workflow
+
+Tech writing work-landscape
+
+Product company-logic – Structure versus individual
+
+Production
+Article with personal angle. Purpose: Market / educate / engagement

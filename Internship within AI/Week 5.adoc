@@ -4,6 +4,7 @@ Dates: 30/3–3/4
 = Activities
 University online course – Elements of AI 
 
+
 = Learnings
 * Express probabilities in terms of natural frequencies
 * Apply the Bayes rule to infer risks in simple scenarios
