@@ -1,0 +1,15 @@
+Dates: 23–27 mars
+
+
+= Activities
+University online course – Elements of AI 
+
+= Learnings
+* Explain autonomy and adaptivity as key concepts for explaining AI
+* Distinguish between realistic and unrealistic AI (science fiction vs. real life)
+* Express the basic philosophical problems related to AI including the implications of the Turing test and Chinese room thought experiment
+* Formulate a real-world problem as a search problem
+* Formulate a simple game (such as tic-tac-toe) as a game tree
+* Use the minimax principle to find optimal moves in a limited-size game tree
+
+= Production 

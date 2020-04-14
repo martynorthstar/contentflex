@@ -1,0 +1,18 @@
+Dates: 30/3–3/4
+
+
+= Activities
+University online course – Elements of AI 
+
+= Learnings
+* Express probabilities in terms of natural frequencies
+* Apply the Bayes rule to infer risks in simple scenarios
+* Explain the base-rate fallacy and avoid it by applying Bayesian reasoning
+* Explain why machine learning techniques are used
+* Distinguish between unsupervised and supervised machine learning scenarios
+* Explain the principles of three supervised classification methods: the nearest neighbor method, linear regression, and logistic regression
+* Explain what a neural network is and where they are being successfully used
+* Understand the technical methods that underpin neural networks
+* Understand the difficulty in predicting the future and be able to better evaluate the claims made about AI
+* Identify some of the major societal implications of AI including algorithmic bias, AI-generated content, privacy, and work
+= Production 
