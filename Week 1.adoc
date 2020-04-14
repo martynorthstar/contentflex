@@ -1,0 +1,16 @@
+Dates: 2–7 mars
+
+= Activities
+Use platform imitating standard user flow. 
+Read in-depth material, both internal documents and external sources
+Meetings, bboth introductory and team-meetings
+
+= Learnings
+* Platform UI 
+* Website structure 
+* Structure philosophy
+* Deep machine learning taxonomy and workflow
+
+= Production 
+* Article with personal angle. 
+Purpose: Market / educate / engagement
