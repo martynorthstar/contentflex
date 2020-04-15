@@ -5,6 +5,7 @@ Dates: 30/3–3/4
 University online course – Elements of AI 
 Internal meetings 
 Engage with AsciDoc and Github
+Read link:http://www.lulu.com/spotlight/justwriteclick[Writing as code]
 
 = Learnings
 * Express probabilities in terms of natural frequencies

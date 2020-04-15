@@ -3,6 +3,7 @@ Dates: 23–27 mars
 = Activities
 University online course – Elements of AI
 Engage with AsciDoc and Github
+Read link:https://rosenfeldmedia.com/books/writing-is-designing/[Writing is designing]
 
 = Learnings
 * Explain autonomy and adaptivity as key concepts for explaining AI
