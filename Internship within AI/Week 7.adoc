@@ -5,5 +5,14 @@ Internal meetings
 
 = Learnings
 
+Resources for learning about Glossarys:
+
+* Apple style guide
+* link:https://www.ingentaconnect.com/contentone/stc/tc/1998/00000045/00000001/art00003[The ABC of writing technical glossary] 
+* link:https://www.oreilly.com/library/view/read-me-first/0131428993/ch13.html[Chapter 13. Glossary Guidelines]
+* As a tech writer, the ability to link:https://en.wikipedia.org/wiki/Ramp-up[Ramp up] is an incremental skill to adjust the explanatory lingo to specific audiences.
+* A good skill would be to know differance between Java and Javascript lingo; the former uses the term class', the latter 'function'. 
+
 = Production 
+
 * New website-articles about new platform-features to be released 
