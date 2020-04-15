@@ -1,7 +1,11 @@
 Dates: 14/4–17/4
 
 = Activities
-Internal meetings 
+Internal meetings
+
+Studied on link:https://idratherbewriting.com/simplifying-complexity/reducing-the-complexity-of-technical-language.html[Idratherbewriting:]
+
+==== "Could it be that immersion in programming languages impacts that shape of one’s thoughts in ways that make programmers less articulate? Is this how tech docs get into such a bad state to begin with?"
 
 = Learnings
 
@@ -10,8 +14,19 @@ Resources for learning about Glossarys:
 * Apple style guide
 * link:https://www.ingentaconnect.com/contentone/stc/tc/1998/00000045/00000001/art00003[The ABC of writing technical glossary] 
 * link:https://www.oreilly.com/library/view/read-me-first/0131428993/ch13.html[Chapter 13. Glossary Guidelines]
-* As a tech writer, the ability to link:https://en.wikipedia.org/wiki/Ramp-up[Ramp up] is an incremental skill to adjust the explanatory lingo to specific audiences.
-* A good skill would be to know differance between Java and Javascript lingo; the former uses the term class', the latter 'function'. 
+* link:https://idratherbewriting.com/learnapidoc/docapis_glossary_section.html[API Glossary at Idratherbewriting]
+
+As a tech writer, the ability to link:https://en.wikipedia.org/wiki/Ramp-up[Ramp up] is an incremental skill to adjust the explanatory lingo to specific audiences. +
+A good skill would be to know differance between Java and Javascript lingo; the former uses the term class', the latter 'function'. 
+
+== Checklist for "reducing complexity of technical language"
+* Are you using the right technical terms? +
+* Do these technical terms align with the same terms used in other documentation from other companies on the same topic?
+Are the terms defined? +
+* Is there any background reading users should do to ramp up on the topic? +
+* Do you use terms consistently or do you include synonyms? +
+* Could some of the language be made more accessible through tooltips? +
+* Are you using plain language to reduce the jargon and technical complexity as much as possible?
 
 = Production 
 
