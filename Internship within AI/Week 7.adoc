@@ -7,6 +7,8 @@ Studied on link:https://idratherbewriting.com/simplifying-complexity/reducing-th
 
 ==== "Could it be that immersion in programming languages impacts that shape of one’s thoughts in ways that make programmers less articulate? Is this how tech docs get into such a bad state to begin with?"
 
+Read Technical Writers Carrer Guide from link:https://clickhelp.com[Clickhelp]
+
 = Learnings
 
 Having a systematic approach / looking at the lens of systems should be majorly favourable in all design-contexts. 
