@@ -23,6 +23,10 @@ Resources for learning about Glossarys:
 As a tech writer, the ability to link:https://en.wikipedia.org/wiki/Ramp-up[Ramp up] is an incremental skill to adjust the explanatory lingo to specific audiences. +
 A good skill would be to know differance between Java and Javascript lingo; the former uses the term class', the latter 'function'. 
 
+==== "Develop ishq for processes and information hierarchy. Understand them, imbibe them in your mental construct."
+- Source: link:https://www.reddit.com/r/technicalwriting/comments/fuopaa/tech_writing_for_software/fmejb79/[Reddit-user]
+
+
 === Checklist for "reducing complexity of technical language"
 * Are you using the right technical terms? +
 * Do these technical terms align with the same terms used in other documentation from other companies on the same topic?
