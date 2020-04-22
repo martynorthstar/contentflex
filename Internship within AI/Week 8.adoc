@@ -1,0 +1,3 @@
+= Activities
+
+Tracked down resourceful overview for enhanced readability of link:https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html[mathematical equations]
